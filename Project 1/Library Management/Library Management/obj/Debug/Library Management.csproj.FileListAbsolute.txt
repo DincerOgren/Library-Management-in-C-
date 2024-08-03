@@ -1,0 +1,7 @@
+C:\Users\Dincer\Desktop\VELO GAMES\Project 1\Library Management\Library Management\bin\Debug\Library Management.exe.config
+C:\Users\Dincer\Desktop\VELO GAMES\Project 1\Library Management\Library Management\bin\Debug\Library Management.exe
+C:\Users\Dincer\Desktop\VELO GAMES\Project 1\Library Management\Library Management\bin\Debug\Library Management.pdb
+C:\Users\Dincer\Desktop\VELO GAMES\Project 1\Library Management\Library Management\obj\Debug\Library Management.csproj.AssemblyReference.cache
+C:\Users\Dincer\Desktop\VELO GAMES\Project 1\Library Management\Library Management\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\Dincer\Desktop\VELO GAMES\Project 1\Library Management\Library Management\obj\Debug\Library Management.exe
+C:\Users\Dincer\Desktop\VELO GAMES\Project 1\Library Management\Library Management\obj\Debug\Library Management.pdb
